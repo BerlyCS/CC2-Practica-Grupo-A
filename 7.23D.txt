@@ -1,0 +1,10 @@
+La fuerza bruta puede ser más simple de implementar en ciertos casos, la heurística de accesibilidad ofrece la posibilidad de encontrar soluciones más eficientes y efectivas en problemas específicos, como el Tour del Caballo, a costa de un mayor esfuerzo de desarrollo y posiblemente mayores requisitos de potencia de cómputo.
+
+Pros:
+La fuerza bruta a menudo es más simple de implementar ya que no requiere la aplicación de algoritmos complejos o heurísticas.
+En algunos casos, la fuerza bruta puede ser una solución general que funciona para una amplia variedad de problemas sin necesidad de adaptación específica.
+
+Contras:
+La fuerza bruta puede ser extremadamente ineficiente en problemas con un gran espacio de búsqueda, ya que puede requerir tiempo y recursos computacionales significativos.
+No proporciona garantías de encontrar una solución óptima o incluso una solución viable en un tiempo razonable.
+La fuerza bruta puede volverse impracticable rápidamente a medida que aumenta el tamaño o la complejidad del problema.
